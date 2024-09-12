@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Raj<br><br>A student and programming enthusiast from India. I'm excited to connect with new people be part of some amazing projects.<br><br>🌱I'm currently learning C and Python.<br><br>📫Reach me at: rajrgaikwad7@gmail.com<br><br>
+Hi, I'm Raj<br><br>A student and programming enthusiast from India. I'm excited to connect with new people be part of some amazing projects.<br><br>🌱I'm currently learning C++ and Python.<br><br>📫Reach me at: rajrgaikwad7@gmail.com<br><br>
 
 
 # 💻 Tech Stack:
